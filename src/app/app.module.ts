@@ -15,7 +15,7 @@ registerLocaleData( localeFrCA );
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
   ],
   imports: [
     BrowserModule,
